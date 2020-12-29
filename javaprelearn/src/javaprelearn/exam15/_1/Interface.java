@@ -23,7 +23,7 @@ public class Interface  implements VolumeSystem, UnMute, Mute {
 	
 	public void volumeDown() {
 			System.out.println("DownVolume");
-	}
+	} 
 	
 	public void volumeUnmute() {
 			System.out.println("Mute");
